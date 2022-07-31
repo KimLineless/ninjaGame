@@ -11,6 +11,10 @@
 좀비킹을 처치하면 게임이 마무리 됩니다.
 </div>
 
+<p align = 'center'> http://lineless.pe.kr/coding/code/index.html </p>
+
+<p align = 'center'> 위 링크에서 플레이 할 수 있습니다. </p>
+
 ---
 
 <p align = 'center'> 👇 구현화면 👇 </P>
